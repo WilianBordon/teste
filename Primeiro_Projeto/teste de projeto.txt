@@ -1,1 +1,1 @@
-teste de projeto testando. teste dois staging area.
+teste de projeto testando. teste dois staging. teste git diff
